@@ -1,5 +1,8 @@
 # Project Description: Text Summarizer Neural Network
 
+![1_TVdi_vS-_Gzp3HAg9Ro80g](https://github.com/cielo112/Text-Summarizer-for-Analysis-of-Business-Reports/assets/113077476/2988f502-8407-4c3b-bbf4-23db34bdd4de)
+
+
 **Overview:**
 The goal of this project is to develop an advanced text summarization neural network that can automatically generate concise and coherent summaries from longer documents or articles. The neural network will be designed to process input text and produce a condensed version that captures the essential information while preserving the overall context and meaning of the original content.
 
